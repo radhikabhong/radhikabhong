@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Certainly! Here's a template for your GitHub overview page:
-
 ---
 
 # Radhika Bhong
