@@ -11,11 +11,11 @@ I am a dedicated software engineer with a Master's degree in Computer Science an
 
 ## Skills
 
-- Languages: C#, JavaScript, Python, Java, C++, HTML, CSS, SQL, NoSQL
-- Frameworks & Libraries: .NET, Angular, React, Bootstrap
-- Databases: SQL Server, Oracle, MySQL, MongoDB
-- Cloud Platforms: Microsoft Azure, Amazon Web Service
-- Tools & Technologies: Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD, Tableau, PowerBI
+- Languages:               C#, JavaScript, Python, Java, C++, HTML, CSS, SQL, NoSQL
+- Frameworks & Libraries:  .NET, Angular, React, Bootstrap
+- Databases:               SQL Server, Oracle, MySQL, MongoDB
+- Cloud Platforms:         Microsoft Azure, Amazon Web Service
+- Tools & Technologies:    Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD, Tableau, PowerBI
 
 ## Contact Me
 
